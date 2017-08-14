@@ -1,0 +1,22 @@
+{
+  "name": "dosthing",
+  "version": "1.0.0",
+  "description": "A simple web service that performs DOS attacks on other web services.",
+  "main": "firstBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricRiney/SimpleDOSThing.git"
+  },
+  "author": "eric riner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricRiney/SimpleDOSThing/issues"
+  },
+  "homepage": "https://github.com/EricRiney/SimpleDOSThing#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
