@@ -36,4 +36,5 @@ function sendRequest(options, callback) {
 
 // Attack!
 // Increase number to increase frequency of attack
-async.timesSeries(1001, sendRequestWrapper);
+async.timesSeries(1000, sendRequestWrapper);
+

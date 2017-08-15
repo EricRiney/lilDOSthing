@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/EricRiney/SimpleDOSThing#readme",
   "dependencies": {
+    "async": "^2.5.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
